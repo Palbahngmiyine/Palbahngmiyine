@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Rust and Distributed Systems.
+
 <!--
 **Palbangmiyine/Palbangmiyine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palbangmiyine&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### Language frequency  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palbangmiyine&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpalbangmiyine%2Fpalbangmiyine&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://subux.dev)
