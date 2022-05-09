@@ -7,4 +7,4 @@ You can check my footsteps on my [homepage](https://www.subux.dev)😄
 
 ### Language frequency  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palbahngmiyine&layout=compact&hide=Objective-C,Swift&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palbahngmiyine&layout=compact&hide=Objective-C,Swift,Ruby&langs_count=10)
