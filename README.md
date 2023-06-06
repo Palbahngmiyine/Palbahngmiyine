@@ -2,4 +2,5 @@
 
 _Pronouns: He/Him_  
 
-Currently, I'm waiting for military service in korea and am taking break 😊
+I'm currently scheduled to join the korea army.
+26/06/23 ~ 25/12/24
