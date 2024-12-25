@@ -2,5 +2,4 @@
 
 _Pronouns: He/Him_  
 
-I'm currently serving the korea army.  
-26/06/23 ~ 25/12/24
+The man who just likes digital exploration.
