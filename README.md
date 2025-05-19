@@ -2,4 +2,4 @@
 
 _Pronouns: He/Him_  
 
-The man who just likes digital exploration.
+The man who’s all about digital exploration.
